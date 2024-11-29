@@ -1,6 +1,6 @@
  /* Estilos para el encabezado */
  header {
-    background-color: #4CAF50;
+    background-color: #358b87;
     padding: 20px;
     text-align: center;
     color: white;
@@ -8,7 +8,7 @@
 
 /* Estilos para la barra de navegación */
 nav a {
-    color: black;
+    color: rgb(0, 0, 0);
     text-decoration: none;
     margin: 0 15px;
     font-weight: bold;
@@ -41,7 +41,7 @@ nav a:hover {
 /* Estilos para el pie de página */
 footer {
     background-color: #333;
-    color: white;
+    color: rgba(255, 255, 255, 0.466);
     text-align: center;
     padding: 10px 0;
     margin-top: 20px;
